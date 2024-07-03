@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\FoodSystem.csproj", "{4979B153-BE00-41AA-AD64-98B0F0682DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4979B153-BE00-41AA-AD64-98B0F0682DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4979B153-BE00-41AA-AD64-98B0F0682DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4979B153-BE00-41AA-AD64-98B0F0682DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4979B153-BE00-41AA-AD64-98B0F0682DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12DFC0C-6948-43E8-84EE-F5CF021FEAC1}
+	EndGlobalSection
+EndGlobal
